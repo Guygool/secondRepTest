@@ -3,7 +3,7 @@ public class dfdgdndndndtn {
 
     public dfdgdndndndtn() {
         int x = 3;
-        
+        add(x);
     }
 
     public int add(int num){
