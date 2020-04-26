@@ -1,4 +1,13 @@
 public class dfdgdndndndtn {
-    int x =3;
-    x = x+2;
+
+
+    public dfdgdndndndtn() {
+        int x = 3;
+        add(x);
+    }
+
+    public int add(int num){
+        num = num + 1;
+        return num;
+    }
 }
